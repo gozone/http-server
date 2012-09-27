@@ -1,8 +1,6 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+# Visual Studio (you can keep bin if you'd like, to store dlls and pdbs)
 bin
 obj
-
-#Visual Studio
 *.suo
 
 #Subversion
