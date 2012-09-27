@@ -2,5 +2,11 @@
 bin
 obj
 
+#Visual Studio
+*.suo
+
+#Subversion
+*.svn
+
 # mstest test results
 TestResults
